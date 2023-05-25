@@ -1,0 +1,52 @@
+{"properties": [
+  {
+    "name": "spring.secondDatasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.secondDatasource.url'"
+  },
+  {
+    "name": "spring.primary.datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.primary.datasource.url'"
+  },
+  {
+    "name": "spring.primary.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.primary.datasource.username'"
+  },
+  {
+    "name": "spring.primary.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.primary.datasource.password'"
+  },
+  {
+    "name": "spring.primary.datasource.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.primary.datasource.driver-class-name'"
+  },
+  {
+    "name": "spring.primary.database-platform",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.primary.database-platform'"
+  },
+  {
+    "name": "spring.secondary.datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.secondary.datasource.url'"
+  },
+  {
+    "name": "spring.secondary.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.secondary.datasource.username'"
+  },
+  {
+    "name": "spring.secondary.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.secondary.datasource.password'"
+  },
+  {
+    "name": "spring.secondary.datasource.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.secondary.datasource.driver-class-name'"
+  }
+]}
